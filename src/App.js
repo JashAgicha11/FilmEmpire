@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useEffect } from "react";
 import './App.css'
 import searchIcon from "./search.svg"
-import developers from "./Assets/AJlogo.jpg"
+// import developers from "./Assets/AJlogo.jpg"
 import MovieCard from "./MovieCard";
 
 
